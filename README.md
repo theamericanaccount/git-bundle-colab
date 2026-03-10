@@ -37,7 +37,7 @@ on the the uncensorable
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
-`untrunc-colab`.
+`git-bundle-colab`.
 The source code is published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
@@ -48,7 +48,7 @@ on your computer just type
 
 ```bash
 ur \
-  untrunc-colab
+  git-bundle-colab
 ```
 
 A censorable HTTP Github mirror of the recipe published there,
